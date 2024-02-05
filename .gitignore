@@ -1,0 +1,9 @@
+# Default ignored files
+/x64/
+/_pycache_/
+/*.sln
+/*.vcxproj
+/*.vcxproj.filters
+/*.vcxproj.user
+/*.pyproj
+/*.vsidx
